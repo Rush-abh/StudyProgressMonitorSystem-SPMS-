@@ -41,11 +41,14 @@ Step 3: In second terminal<br>
 <h3>Application Diagrams:</h3>
 
 Architecture:
+User gives input towards client side and sends a request to the server and receives a response. The server interacts with the database to process the request and obtains a result in response. 
 <p align="center"><img align="centre" width="600" height="500" src="https://i.imgur.com/nDL0XQb.png"></p> 
 <p align="center"><img align="center" width="600" height="400" src="https://i.imgur.com/jHbvYXC.png"></p>
 Workflow:
+The user starts the application redirected to the login and registration menu. Further, depending on the functionality selection, the action is performed. Further four functionalities are available for operation. Selecting operation 1 user will be prompted to input the subject, recording the input query execution will take place responding the user with the result. Further user will be redirected to the main menu allowing to execute other operation. Like operation 1 the corresponding actions and execution will take place for operation 2, 3 and 4. The new operation 4 is available only for administrator which allows adding the students into system. The operation 5 is exit functionality which can be selected by pressing 0 which, further closes the running application.
 <p align="center"><img align="center" width="500" height="500" src="https://i.imgur.com/IKeyusV.png"></p>
 Class Diagram:
+All the systems classes, their attributes, and methods can be seen in the diagram. Client, Server and DatabaseUtility are major class and other are domain classes. 
 <p align="center"><img align="center" width="1200" height="900" src="https://i.imgur.com/p24FBDg.png"></p>
 
 <h3>Application illustration:</h3>
