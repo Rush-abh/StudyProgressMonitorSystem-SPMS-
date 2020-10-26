@@ -38,7 +38,7 @@ Step 3: In second terminal<br>
        <b>type</b> java -cp . Client
 ##
 
-**Application Diagrams:**
+<h3>Application Diagrams:</h3>
 
 Architecture:
 <p align="center"><img align="centre" width="600" height="500" src="https://i.imgur.com/nDL0XQb.png"></p> 
@@ -48,33 +48,33 @@ Workflow:
 Class Diagram:
 <p align="center"><img align="center" width="1200" height="900" src="https://i.imgur.com/p24FBDg.png"></p>
 
-**Application illustration:**
+<h3>Application illustration:</h3>
 
-User registration and login:
+**User registration and login:**
 <p align="center"><img align="center" width="1500" height="300" src="https://i.imgur.com/rjg8Qe7.png"></p>
 <p align="center"><img align="center" width="1500" height="300" src="https://i.imgur.com/143oHpD.png"></p>
 <p align="center"><img align="center" width="1500" height="200" src="https://i.imgur.com/gpUJiCn.png"></p>
-
-Assessment as per subject:
+##
+**Assessment as per subject:**
 <p align="center"><img align="center" width="1500" height="200" src="https://i.imgur.com/uwivIX0.png"></p>
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/bgtJn9p.png"></p>
-
-Grades of assessment as per student:
+##
+**Grades of assessment as per student:**
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/tWTyzQt.png"></p>
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/Y4ZqZkt.png"></p>
-
-Update grade as per student and subject:
+##
+**Update grade as per student and subject:**
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/mLZmHZn.png"></p>
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/VyINcQT.png"></p>
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/9EDaeKf.png"></p>
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/ssb68g3.png"></p>
-
-Add student (for administrator):
+##
+**Add student (for administrator):**
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/HqtIIAH.png"></p>
-
-Multi-Threading:
+##
+**Multi-Threading:**
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/EpTK8w2.png"></p>
-
-Close the application:
+##
+**Close the application:**
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/bh7PPh8.png"></p>
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/0Yaaa90.png"></p>
