@@ -54,6 +54,8 @@ All the systems classes, their attributes, and methods can be seen in the diagra
 <h3>Application illustration:</h3>
 
 **User registration and login:**
+Selecting user registration to register student. Entering passowrd for student. Receiving ID for student.
+Selecting login for administrator login. Entering user id and password. Further, receiving main menu.
 <p align="center"><img align="center" width="1500" height="300" src="https://i.imgur.com/rjg8Qe7.png"></p>
 <p align="center"><img align="center" width="1500" height="300" src="https://i.imgur.com/143oHpD.png"></p>
 <p align="center"><img align="center" width="1500" height="200" src="https://i.imgur.com/gpUJiCn.png"></p>
@@ -61,18 +63,25 @@ All the systems classes, their attributes, and methods can be seen in the diagra
 ##
 
 **Assessment as per subject:**
+Operation selection input and displaying the available subjects.
+Subject name input and display result:
 <p align="center"><img align="center" width="1500" height="200" src="https://i.imgur.com/uwivIX0.png"></p>
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/bgtJn9p.png"></p>
 
 ##
 
 **Grades of assessment as per student:**
+Login as admin and view grade of student. Initially select function to view grade. Next, select student whose grade to be displayed. Further, select subject. Upon selecting all things correctly, corresponding grade will be displayed.
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/tWTyzQt.png"></p>
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/Y4ZqZkt.png"></p>
 
 ##
 
 **Update grade as per student and subject:**
+Selecting the set grade option.
+Next, selecting student and subject for which grade need to be updated.
+Then, selecting assessment and grade wich needs to be updated. Receiving the success message for setting the grade. 
+Lastly, viewing the grade after successfully updating with required steps.
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/mLZmHZn.png"></p>
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/VyINcQT.png"></p>
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/9EDaeKf.png"></p>
@@ -81,15 +90,18 @@ All the systems classes, their attributes, and methods can be seen in the diagra
 ##
 
 **Add student (for administrator):**
+Selecting the add student functionality from menu. Only available to administrators. Further entering the student name year level in correct format. At least, receiving the success message of adding the student.
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/HqtIIAH.png"></p>
 
 ##
 
 **Multi-Threading:**
+Thread creation for multiple clients simultaneously:
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/EpTK8w2.png"></p>
 
 ##
 
 **Close the application:**
+Exiting the client application:
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/bh7PPh8.png"></p>
 <p align="center"><img align="center" width="1500" height="400" src="https://i.imgur.com/0Yaaa90.png"></p>
