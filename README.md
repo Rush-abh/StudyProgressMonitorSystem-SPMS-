@@ -1,10 +1,16 @@
  # Study Progress Monitor System (SPMS)
+ Application to manage students’ grades allowing administrators to add students, enrol subjects with
+assessments, set grade, and parents/students to access the stored details.
  
  ##### Developed By: 
 [Rushabh Pancholi](https://www.linkedin.com/in/rushabh-pancholi-62235b166/), [Abhishek Ejam
-](https://www.linkedin.com/in/abhishek-ejam/), [abc](),
+](https://www.linkedin.com/in/abhishek-ejam/)
+
+#### Project Definition: 
+Application built using conecpts of networking, inter-process communication, remote invocation, efficient algorithms, inheritance, polymorphism and exception handling
 
 ##
+
 <h3>Features of System:</h3>
 
 All users accessing the SPMS should able to view the following data:
