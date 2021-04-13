@@ -7,7 +7,8 @@ assessments, set grade, and parents/students to access the stored details.
 ](https://www.linkedin.com/in/abhishek-ejam/)
 
 #### Project Definition: 
-Application built using conecpts of networking, inter-process communication, remote invocation, efficient algorithms, inheritance, polymorphism and exception handling
+Application built using conecpts of networking, inter-process communication, remote invocation, efficient algorithms, inheritance, polymorphism,
+exception handling and multi threading.
 
 ##
 
